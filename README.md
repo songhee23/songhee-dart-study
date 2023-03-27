@@ -12,3 +12,11 @@
 # songhee-dart-study 다트 공부 시작 (230326)
 니꼬쌤 무료 강의 
 출처 : https://nomadcoders.co/dart-for-beginners
+
+
+환경
+tool - Visual Studio Code(dart or flutter 설치)
+
+
+공부 방법 
+동영상을 보고 코드를 실행하고, 설명을 주석으로 추가한다.
